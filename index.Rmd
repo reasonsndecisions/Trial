@@ -1,6 +1,6 @@
 --- 
 title: "Trial by Trail"
-author: "YOUR NAME HERE"
+author: "ABC"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
